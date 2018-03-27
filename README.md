@@ -1,4 +1,15 @@
-# BYU Drupal 7 Theme
+# DEPRECATED BYU Drupal 7 Theme
+
+## DEPRECATED
+**This theme has been replaced by the [BYU Theme](https://drupal.org/projects/byu_theme) on Drupal.org and this repository will be deleted on 08/13/2018** Follow these instructions to upgrade to the new theme.
+
+1.	Download byu_theme from Drupal.org.
+2.	Take note of your current theme settings.
+3.	Enable byu_theme¬ and disable byu2017_d7. Do not disable ZURB Foundation.
+4.	Reset your theme settings.
+5.	If you subthemed, change the base theme from byu2017_d7 to byu_theme
+6.	Clear caches.
+7.	Check to be sure everything looks the same, then delete byu2017_d7.
 
 ## Getting Started:
 
